@@ -1,2 +1,2 @@
-# Calendar-Application-For-Communication-Tracking
-Develop a tool to efficiently track and manage interactions with companies, ensuring timely and consistent follow-ups. Features include logging past communications, planning future ones, and managing engagement schedules.
+# Calendar-Application-for-Communication-Tracking
+Creating a full React-based Calendar Application based on the provided requirements is a comprehensive task. Below is a basic structure and starting code for the application, focusing on the main modules: Admin, User, and optional Reporting/Analytics. You can build on this foundation to complete the assignment
